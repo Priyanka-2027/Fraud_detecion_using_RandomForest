@@ -172,7 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 5. ✅ Model serialization
 6. ✅ Building REST APIs
 7. ✅ Frontend-backend integration
-8. ✅ Real-time ML predictions
+8. ✅ Real-time ML predictions.
 
 ## 📝 License
 
