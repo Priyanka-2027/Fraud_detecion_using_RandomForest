@@ -119,9 +119,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## � License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -174,10 +171,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 7. ✅ Frontend-backend integration
 8. ✅ Real-time ML predictions.
 
-## 📝 License
-
-MIT License - Feel free to use for educational purposes!
-
----
+## Output Screenshots
+<img width="1867" height="1089" alt="Screenshot 2025-12-03 233727" src="https://github.com/user-attachments/assets/e4c8297d-1584-40f1-b099-63991aebaa7a" />
+<img width="1690" height="975" alt="Screenshot 2025-12-03 233842" src="https://github.com/user-attachments/assets/787b638d-86b1-4536-86f4-fdb1d39f49bd" />
+<img width="1690" height="969" alt="Screenshot 2025-12-03 233901" src="https://github.com/user-attachments/assets/3808dbcf-c5f7-4fdb-ae89-167d1b0172fb" />
+<img width="1615" height="1005" alt="Screenshot 2025-12-03 234056" src="https://github.com/user-attachments/assets/c40e435e-fe65-486f-a57c-5a73bd1cf4ce" />
 
 **Built with ❤️ for ML Learning**
