@@ -10,7 +10,7 @@ A real-time financial fraud detection system that uses machine learning to ident
 
 ## 🌟 Features
 
-- **Real-time Fraud Detection**: Instant prediction of fraudulent transactions
+- **Real-time Fraud Detection**: Instant prediction of fraudulent transactions.
 - **Interactive Web Interface**: User-friendly dashboard for transaction analysis
 - **Machine Learning Model**: Random Forest Classifier trained on financial transaction data
 - **RESTful API**: Easy integration with other systems
